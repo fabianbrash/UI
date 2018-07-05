@@ -5,4 +5,4 @@
 ### Links
 
 [MDB](https://mdbootstrap.com/)
-[thurty eight visuals- back to top button](https://www.thirtyeightvisuals.com/blog/back-to-top-button-squarespace)
+[thirty eight visuals- back to top button](https://www.thirtyeightvisuals.com/blog/back-to-top-button-squarespace)
